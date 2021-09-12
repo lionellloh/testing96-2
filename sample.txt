@@ -1,1 +1,8 @@
 Hello everyone
+
+Branching 
+
+
+Stash 
+Push 
+Pull
